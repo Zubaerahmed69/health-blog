@@ -1,0 +1,11 @@
+body {
+    background-color: #effffd;
+}
+
+.navbar {
+    font-weight: 500;
+}
+
+li>a {
+    text-decoration: none;    
+}
