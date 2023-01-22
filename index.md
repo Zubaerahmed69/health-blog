@@ -2,7 +2,6 @@
     title: A Single Page Blog
     description: This site is a about a single blog post regarding healthcare.
     color-scheme: auto/light/dark
-    logo: ./Assets/zubaer.jpg
     favicon: true
     layout: post
     author: Zubaer Ahmed
