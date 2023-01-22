@@ -71,9 +71,9 @@ Medical News Today- https://www.medicalnewstoday.com/articles/telemedicine-benef
 * https://www.ibm.com/topics/artificial-intelligence-medicine
 * https://www.javatpoint.com/artificial-intelligence-in-healthcare
 
-### Zubaer Ahmed
+### Helllloooooooo!!!
 
-Hi there! I'm Zubaer Ahmed. I'm a student studying Health Informatics in DIT, Germany. I'm currently living in Bangladesh. I love travelling, watching movies, playing cricket.
+I'm Zubaer Ahmed. I'm a student studying Health Informatics in DIT, Germany. I'm currently living in Bangladesh. I love travelling, watching movies, playing cricket.
 
 Matriculation Number: 22202060
 © 2023 Zubaer Ahmed
