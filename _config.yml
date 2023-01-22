@@ -11,8 +11,8 @@ Lets say you have a file name xyz.md, you put that into the root dir. Now, add t
 
 ```yml
 navigation:
-  - name: [Write name of your hyperlink]
-    link: ./xyz.html
+  - name: index
+    link: ./index.html
 ```
 
 ### Adding Card:
