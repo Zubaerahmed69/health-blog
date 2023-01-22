@@ -5,6 +5,7 @@
     logo: ./Assets/zubaer.jpg
     favicon: true
     layout: post
+    author: Zubaer Ahmed
 ---
 
 # Impact of IT in Healthcare System
@@ -54,18 +55,18 @@ The development and advancement of health information technology will continue i
 The advancement of health information technology holds great promise for both patients and medical practitioners with the ultimate goal of enhancing health outcomes.
 
 ## Reference
-Fingent.com
-Fingent.com
-Medicalnewstoday.com
-smithsonianmag.com
-wikipedia
-mathematica.org
-yoh.com/impact-of
-medicalnewstoday.com
-karexpert.com/blogstech/health-care
-hindustantimes.com
-ibm.com/topics/artificial
-javapoint.com/artificial
+* Fingent.com
+* Fingent.com
+* Medicalnewstoday.com
+* smithsonianmag.com
+* wikipedia
+* mathematica.org
+* oh.com/impact-of
+* medicalnewstoday.com
+* karexpert.com/blogstech/health-care
+* hindustantimes.com
+* ibm.com/topics/artificial
+* javapoint.com/artificial
 
 Zubaer Ahmed
 Hi there! I'm Zubaer Ahmed. I'm a student studying Health Informatics in DIT, Germany. I'm currently living in Bangladesh. I love travelling, watching movies, playing cricket.
