@@ -10,7 +10,7 @@
 
 # Impact of IT in Healthcare System
 
-img here
+![Screenshot](./Assets/hero.jpg)
 
 In this modern era, from transportation to manufacturing to education, Information technology impacting strongly in every industry. The Health care industry has significantly upgraded and transformed by the help of information technology. After the implementation of IT in healthcare its benefits both medical professionals as well as patients. Patients can choose from a variety of minimally invasive procedures that are less uncomfortable and have better recovery times.
 
@@ -21,7 +21,7 @@ The information technology impacted and transformed the healthcare industry a lo
 ## Telemedicine
 Telemedicine means giving clinical care virtually by using technology from a distance. Telemedicine uses electronic and telecommunication technology and devices to exchange of medical information, despite a person and their doctor not being in the same place. The concept of telemedicine was predicted by Luxembourgish–American editor and magazine publisher Hugo Gernsbacher in 1925. The "teledactyl," as Gernsback's invention was dubbed, would enable doctors to not only see their patients through a viewscreen, but also to touch them from a great distance with spindly mechanical arms. He correctly foresaw modern telemedicine.
 
-
+![Screenshot](./Assets/teledacty.jpg)
 Fig: Gernsback’s predicted device “teledactyl”
 
 Telemedicine offers a range of benefits, including convenience, savings, more relevant assessments, and involvement of family members in an individual's care. However telemedicine has drawbacks too. The Hackers or criminals may hack the patient data because it’s communicates with an unencrypted networks. In emergency case implementation of telemedicine may delay the treatment process because a doctor is unable to give life support care or laboratory test digitally.
@@ -31,7 +31,7 @@ Sometimes it’s really challenging to find a trustable and authentic Digital pl
 ## Artificial intelligence(AI) In Healthcare
 By the development of advanced computer science and informatics Artificial Intelligence(AI) become the most important part of healthcare system. We cannot define artificial intelligence in one technology or system ,rather than we can call it collection of technologies. There are numerous impact of AI in health care system which helps to digitalized the overall healthcare system and make easier and safer treatment in short time.
 
-img here
+![Screenshot](./Assets/AI_Web_kx.jpg)
 
 Some particular AI technologies has high importance to healthcare system. Machine learning , Natural language processing, Rule-based expert systems, Physical robots, Robotic process automation, applications etc has impacted highly rather than other technologies. The uses of AI in healthcare totally transforming the system and give us astonishing possibilities. Improving diagnostic application is one of the most useful technology in healthcare system. By the use of Ai technologies images could be analysis automatically which will remove the possibility of error in human reading.
 
@@ -40,6 +40,8 @@ Its really tough to find out and discover new drugs from the large amount of dat
 Future Ai should be viewed as an ethical use of medical technology knowledge rather than as a doctor replacement.. AI should be the second observer who alerts the sonographer that in which part they have to pay attention highly. I hope that in the future the use of artificial intelligence will keep improving the healthcare system through accurate diagnosis, better prediction, and treatment and also reduce the cost of it.
 
 ## Healthcare Technology Trends And Innovations
+
+![Screenshot](./Assets/medi.jpg)
 
 While discussing about the technology trends and innovation in healthcare atfirts Big data comes to my mind . Big data in healthcare makes it possible for the entire sector to benefit from in-depth research projects. Access to various population groups is now greater and more varied. They might also rely on previously published articles for detailed meta-analyses. This can be utilized to automatically identify risk factors, provide the best preventative therapy, reduce costs, and overall enhance quality of life by comparing patient data with that of thousands of other patients.
 
@@ -55,20 +57,23 @@ The development and advancement of health information technology will continue i
 The advancement of health information technology holds great promise for both patients and medical practitioners with the ultimate goal of enhancing health outcomes.
 
 ## Reference
-* Fingent.com
-* Fingent.com
-* Medicalnewstoday.com
-* smithsonianmag.com
-* wikipedia
-* mathematica.org
-* oh.com/impact-of
-* medicalnewstoday.com
-* karexpert.com/blogstech/health-care
-* hindustantimes.com
-* ibm.com/topics/artificial
-* javapoint.com/artificial
+* Finget -https://www.fingent.com/blog/the-application-and-impact-of-information-technology-in-healthcare/#:~:text=Uses%20of%20information%20technology%20in%20healthcare&text=IT%20has%20helped%20healthcare%20professionals,and%20check%20against%20other%20records.
+* Fingent https://www.fingent.com/blog/7-major-impacts-of-technology-in-healthcare/
+* Medical News Today- https://www.medicalnewstoday.com/articles/telemedicine
+* Matt Novak (March 14, 2012) - https://www.smithsonianmag.com/history/telemedicine-predicted-in-1925-124140942/
+* Wikipedia-https://en.wikipedia.org/wiki/Hugo_Gernsback
+* https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mathematica.org%2Fnews%2Fnew-studies-highlight-trend-toward-integrated-health-systems-and-their-impact-in-latest-issue&psig=AOvVaw3_klCgLOkwy7zqB_Q4WdIn&ust=1673126056660000&source=images&cd=vfe&ved=0CBAQjRxqGAoTCNDDjbTus_wCFQAAAAAdAAAAABCLAQ
+* https://www.yoh.com/blog/the-impact-of-information-technology-on-healthcare
+* Medical News Today- https://www.medicalnewstoday.com/articles/telemedicine-benefits#disadvantages
+* gLOkwy7zqB_Q4WdIn&ust=1673126056660000&source=images&cd=vfe&ved=0CBAQjRxqGAoTCNDDjbTus_wCFQAAAAAdAAAAABCLAQ
+https://www.yoh.com/blog/the-impact-of-information-technology-on-healthcare
+Medical News Today- https://www.medicalnewstoday.com/articles/telemedicine-benefits#disadvantages
+* https://tech.hindustantimes.com/tech/news/how-artificial-intelligence-is-transforming-the-future-of-healthcare-one-step-at-a-time-71618571709665.html
+* https://www.ibm.com/topics/artificial-intelligence-medicine
+* https://www.javatpoint.com/artificial-intelligence-in-healthcare
 
-Zubaer Ahmed
+### Zubaer Ahmed
+
 Hi there! I'm Zubaer Ahmed. I'm a student studying Health Informatics in DIT, Germany. I'm currently living in Bangladesh. I love travelling, watching movies, playing cricket.
 
 Matriculation Number: 22202060
